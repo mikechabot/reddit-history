@@ -1,6 +1,6 @@
 # reddit-history
 
-Simple script to scrape reddit comment history 
+Simple script to scrape reddit comment history.
 
 1. `$ git clone https://github.com/mikechabot/reddit-history.git`
 2. `$ pip install praw`
